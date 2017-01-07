@@ -1,3 +1,9 @@
+## What is different in my Fork:
+
+Resolved: ads1x15.prototype.getLastConversionResults was not returning data for ADS1115
+
+Resolved: "ADS1x15: Invalid pga specified" was thrown when PGA value is 6144.
+
 node-ads1x15
 =========
 
